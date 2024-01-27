@@ -1,5 +1,9 @@
 # File Compression and Encryption Tool For TempleOS (R.I.P Terry A. Davis 15.12.1969 - 11.8.2018 [*])
 
+## Things You Need To Know Before execution
+
+- **This Program Was Originally Written In Python And It Was Rewritten In HolyC**
+
 This program is designed to provide functionalities for compressing and encrypting files.
 
 ## Features
