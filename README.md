@@ -2,9 +2,8 @@
 
 ## Things You Need To Know Before execution
 
-- **This Program Was Originally Written In Python And It Was Rewritten In HolyC**
-
-This program is designed to provide functionalities for compressing and encrypting files.
+- **This Program Was Originally Written In Python And It Was Rewritten In HolyC.**
+-**This program is designed to provide functionalities for compressing/decompressing and encrypting/decrypting files.**
 
 ## Features
 
