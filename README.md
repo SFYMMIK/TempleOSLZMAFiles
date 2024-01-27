@@ -1,4 +1,4 @@
-# File Compression and Encryption Tool For TempleOS (R.I.P Terry A. Davis 15.12.1969 - 11.8.2018 [*] [*] [*])
+# File Compression and Encryption Tool For TempleOS (R.I.P Terry A. Davis 15.12.1969 - 11.8.2018 [*])
 
 This program is designed to provide functionalities for compressing and encrypting files.
 
